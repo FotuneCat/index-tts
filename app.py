@@ -21,4 +21,3 @@ class InferlessPythonModel:
         generateObject = ResponseObjects(generated_txt = pipeline_output[0]["generated_text"])
         return generateObject
   
-githubFork sample repo
